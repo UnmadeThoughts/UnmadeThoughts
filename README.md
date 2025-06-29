@@ -1,17 +1,24 @@
-I’m @UnmadeThoughts, a cybersecurity enthusiast and aspiring SOC analyst with a strong foundation in scripting and software development.
-About Me
+Hi, I’m @UnmadeThoughts — a cybersecurity enthusiast and aspiring SOC analyst with a strong foundation in scripting and software development.
 
-    Originally focused on internal logic processing and scripting in Java and C#, I’m now pivoting toward cybersecurity and defensive operations.
+About Me:
 
-    Currently deepening my expertise in security monitoring, log analysis, and incident response.
+    Originally focused on internal logic processing and scripting in Java and C#.
 
-    Actively building practical skills through hands-on home labs and real-world tools like Splunk, Linux, and VirtualBox.
+    Currently pivoting toward cybersecurity, with a focus on security monitoring, log analysis, and incident response.
 
-    Excited to expand my portfolio with projects and contributions relevant to security operations and cyber defense.
+    Proud holder of the ISC2 Certified in Cybersecurity (CC) certification.
 
-Get in Touch
+    Actively building hands-on skills through labs and real-world tools like Splunk, Linux, and VirtualBox.
 
-I’m always open to networking, collaboration, and sharing knowledge. Reach out anytime!
+    Engaged in ongoing learning and challenges on TryHackMe.
+
+Projects & Learning:
+
+    SOC home lab documentation and hands-on setups using Splunk and Ubuntu.
+
+    TryHackMe rooms focused on detection, incident response, and network security.
+
+Get in Touch:
 
     GitHub: @UnmadeThoughts
 
@@ -19,8 +26,4 @@ I’m always open to networking, collaboration, and sharing knowledge. Reach out
 
     Email: KGNSL@outlook.com
 
-Thank you for visiting!
-<!---
-UnmadeThoughts/UnmadeThoughts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thanks for stopping by!
