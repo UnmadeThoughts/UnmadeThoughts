@@ -18,6 +18,8 @@ Projects & Learning:
 
     TryHackMe rooms focused on detection, incident response, and network security.
 
+    This GitHub is focused on documenting hands-on technical labs relevant to IT support and cybersecurity roles.
+
 Get in Touch:
 
     GitHub: @UnmadeThoughts
