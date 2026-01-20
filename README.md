@@ -1,31 +1,25 @@
-Hi, I’m @UnmadeThoughts — a cybersecurity enthusiast and aspiring SOC analyst with a strong foundation in scripting and software development.
+Hi, I’m @UnmadeThoughts — a cybersecurity professional with a software development background, focused on security monitoring, detection, and incident response.
 
-About Me:
+## About Me
 
-    Originally focused on internal logic processing and scripting in Java and C#.
+- Background in software development using Java and C#, with strong foundations in logic, scripting, and problem-solving  
+- Transitioned into cybersecurity with a focus on defensive security and SOC workflows  
+- Holder of the **ISC2 Certified in Cybersecurity (CC)** certification  
+- Hands-on experience with **Splunk, Linux, Windows, and VirtualBox** through structured technical labs  
+- Actively developing investigation and detection skills through **TryHackMe**
 
-    Currently pivoting toward cybersecurity, with a focus on security monitoring, log analysis, and incident response.
+## Projects & Learning
 
-    Proud holder of the ISC2 Certified in Cybersecurity (CC) certification.
+- **SOC Home Lab** — log ingestion, alert creation, and investigation using Splunk and Ubuntu  
+- **IT Technician Labs** — Windows installation, configuration, system troubleshooting, and documentation  
+- **TryHackMe** — practical labs focused on SIEM, incident response, and network security fundamentals  
 
-    Actively building hands-on skills through labs and real-world tools like Splunk, Linux, and VirtualBox.
+This GitHub is dedicated to documenting **hands-on technical labs and real-world skill development** relevant to IT support and cybersecurity roles.
 
-    Engaged in ongoing learning and challenges on TryHackMe.
+## Get in Touch
 
-Projects & Learning:
-
-    SOC home lab documentation and hands-on setups using Splunk and Ubuntu.
-
-    TryHackMe rooms focused on detection, incident response, and network security.
-
-    This GitHub is focused on documenting hands-on technical labs relevant to IT support and cybersecurity roles.
-
-Get in Touch:
-
-    GitHub: @UnmadeThoughts
-
-    Discord: UnmadeThoughts
-
-    Email: KGNSL@outlook.com
+- **GitHub:** @UnmadeThoughts  
+- **Discord:** UnmadeThoughts  
+- **Email:** KGNSL@outlook.com  
 
 Thanks for stopping by!
